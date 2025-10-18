@@ -2,6 +2,7 @@
 
 ## Objetivos de aulas
 
-1.  Criar um repositorio
-
-2 . TESTE_TESTE 3. Foramatação
+1. Criar um repositorio;
+2. TESTE_TESTE;
+3. Foramatação
+4. +1
